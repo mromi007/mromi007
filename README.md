@@ -43,15 +43,6 @@
 
 ###
 
-<br clear="both">
-
-<img src="https://raw.githubusercontent.com/mromi007/mromi007/output/snake.svg" alt="Snake animation" />
-
-###
-
-<div align="left">
-</div>
-
 ###
 
 <div align="left">
